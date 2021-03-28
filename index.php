@@ -1,1 +1,3 @@
-salom
+<?php
+echo "Salom";
+?>
